@@ -24,11 +24,6 @@ body{
         margin: 0;
         border-bottom: 2px solid black;
     }
-    
-    .logo{
-        width: 9%;
-        float: left;
-    }
 
     header h1{
         color: white;
