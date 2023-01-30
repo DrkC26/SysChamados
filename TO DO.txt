@@ -1,3 +1,0 @@
-1- colocar data e hora de envio nas tabelas;
-2- arranjar uma forma mais fácil para mover linhas de uma base de dados para outra;
-3- criar sistema de login para a página admin;
