@@ -1,7 +1,7 @@
 <?php
     // LOGIN MASTER
-    $login_master = 'bruno';
-    $senha_master = 'masterTI';
+    $login_master = 'TECNICO';
+    $senha_master = 'TECNICO';
 
     // LOGIN RECEPÇÃO
     $login_recepção = 'recepção';
