@@ -7,7 +7,6 @@ $conchat = $mysqli->query($consultachat) or die ($mysqli->error);
 
 
 <header>
-        <img class="logo" src="images/maosamigaslogo.png">
         <?php 
          echo"<br><p>Você logou como: <u>".$_SESSION['login']."</u></p>";
          echo'<h3><a href="?logout">Sair</a></h3>'
